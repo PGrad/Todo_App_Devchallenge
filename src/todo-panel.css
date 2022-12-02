@@ -1,0 +1,8 @@
+.add-task {
+    display: flex;
+    align-items: center;
+}
+
+.striked {
+    text-decoration: line-through;
+}
